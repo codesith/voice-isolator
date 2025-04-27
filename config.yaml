@@ -1,0 +1,6 @@
+input_device: "Built-in Microphone"    # Change if you use a USB mic
+output_device: "BlackHole 2ch"          # Virtual mic device
+frame_duration_ms: 20
+match_threshold: 0.75
+sample_rate: 16000
+profile_path: "../models/my_voice_profile.npy"

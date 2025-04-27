@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+
+# Ignore audio models
+models/
+*.wav
+*.npy
+
+# Ignore macOS junk
+.DS_Store
